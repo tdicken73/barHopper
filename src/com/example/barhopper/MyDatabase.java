@@ -2,6 +2,7 @@ package com.example.barhopper;
 
 import java.util.LinkedList;
 import java.util.List;
+
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
